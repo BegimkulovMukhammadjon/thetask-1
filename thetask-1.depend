@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606833915 source:c:\users\hp\desktop\codeblocks.cbp\thetask-1\main.c
+	<stdlib.h>
+	<math.h>
+
